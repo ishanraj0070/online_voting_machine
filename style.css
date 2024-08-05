@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  #voting-form {
+    width: 50%;
+    margin: 40px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  #candidate {
+    width: 100%;
+    padding: 10px;
+    font-size: 18px;
+  }
+  
+  #vote-button {
+    background-color: #4CAF50;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+
+  #vote-button:hover {
+    background-color: #3e8e41;
+  }
+  
+  #results {
+    margin-top: 20px;
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+  }
+  
+  
